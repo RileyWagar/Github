@@ -404,6 +404,9 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/MySetup.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
+"Assets/_Project/Scripts/InputReader.cs"
+"Assets/_Project/Scripts/InputSystem_Actions.cs"
+"Assets/_Project/Scripts/PlayerController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
